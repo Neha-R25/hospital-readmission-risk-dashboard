@@ -27,4 +27,4 @@ Exploratory Data Analysis (EDA)
 
 ## Dashboard Preview
 
-![Dashboard Preview](Hospital%20Readmission%20Dashboard.png)
+![Dashboard Preview](dashboard.png)
